@@ -5,4 +5,6 @@
 - 📍 I am based in Melbourne, Australia.
 - 💬 Please reach out if you happen to stumble upon my profile and have any tips or recommendations.
 
+My LinkedIn profile is [here](https://www.linkedin.com/in/anthonystergiou/).
+
 Have a great day!
