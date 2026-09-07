@@ -1,5 +1,5 @@
 ## Hello, my name is Anthony
-- 🔭 I am finally currently transitioning from a long non-tech (HR) background career into my passion in tech and hopefully cloud engineering.
+- 🔭 I am (finally) currently transitioning from a long non-tech (HR) background career into my passion in tech and hopefully cloud engineering.
 - 🌱 I’m currently learning AWS, Linux, Git, Bash and Python.
 - 🤔 The resources I am currently using are GitHub, LearnToCloud.guide and ChatGPT.
 - 📍 I am based in Melbourne, Australia.
